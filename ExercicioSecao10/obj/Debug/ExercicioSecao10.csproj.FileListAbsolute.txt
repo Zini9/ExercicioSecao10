@@ -1,0 +1,7 @@
+C:\Users\guilh\source\repos\ExercicioSecao10\ExercicioSecao10\bin\Debug\ExercicioSecao10.exe.config
+C:\Users\guilh\source\repos\ExercicioSecao10\ExercicioSecao10\bin\Debug\ExercicioSecao10.exe
+C:\Users\guilh\source\repos\ExercicioSecao10\ExercicioSecao10\bin\Debug\ExercicioSecao10.pdb
+C:\Users\guilh\source\repos\ExercicioSecao10\ExercicioSecao10\obj\Debug\ExercicioSecao10.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\ExercicioSecao10\ExercicioSecao10\obj\Debug\ExercicioSecao10.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\ExercicioSecao10\ExercicioSecao10\obj\Debug\ExercicioSecao10.exe
+C:\Users\guilh\source\repos\ExercicioSecao10\ExercicioSecao10\obj\Debug\ExercicioSecao10.pdb
