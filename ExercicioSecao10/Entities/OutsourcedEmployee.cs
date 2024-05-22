@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace ExercicioSecao10.Entities
 {
-    internal class OutsourcedEmplyee
+    internal class OutsourcedEmployee
     {
         public double AdditionalCharge { get; set; }
 
-        public OutsourcedEmplyee() 
+        public OutsourcedEmployee() 
         { 
         }
 
-        public OutsourcedEmplyee(double additionalCharge)
+        public OutsourcedEmployee(double additionalCharge)
         {
             AdditionalCharge = additionalCharge;
         }
