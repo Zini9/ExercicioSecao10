@@ -6,17 +6,21 @@ using System.Threading.Tasks;
 
 namespace ExercicioSecao10.Entities
 {
-    internal class OutsourcedEmployee
+    internal class OutsourcedEmployee : Employee
     {
         public double AdditionalCharge { get; set; }
 
-        public OutsourcedEmployee() 
-        { 
-        }
-
-        public OutsourcedEmployee(double additionalCharge)
+        public OutsourcedEmployee()
         {
-            AdditionalCharge = additionalCharge;
+        }
+        public OutsourcedEmployee(double additionalcharge, string name, int hours, double valuePerHour) 
+            :base(name, hours, valuePerHour)
+        {
+            AdditionalCharge = AdditionalCharge;
+        }
+        public override double Payment()
+        {
+            return base.Payment() + 1.1 * AdditionalCharge;
         }
     }
 }

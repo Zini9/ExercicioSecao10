@@ -21,5 +21,10 @@ namespace ExercicioSecao10.Entities
             Hours = hours;
             ValuePerHour = valuePerHour;
         }
+
+        public virtual double Payment ()
+        {
+            return Hours * ValuePerHour;
+        }
     }
 }
